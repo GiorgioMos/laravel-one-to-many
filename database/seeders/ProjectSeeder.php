@@ -19,6 +19,7 @@ class ProjectSeeder extends Seeder
                 'description' => 'descrizione lunga',
                 'thumb' => 'url img',
                 'creation_date' => '22-01-24',
+                'category_id' => 3,
             ],
             [
                 'title' => 'progetto 2',
